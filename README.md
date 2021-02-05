@@ -11,9 +11,8 @@
 
 ##  🥚Level 01 (20.02.02 ~ )
 
-| 단계 |     프로젝트     |                         원본 저장소                          |                          내 저장소                           |                             후기                             |   기간   |
-| :--: | :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :------: |
-|  0   |  cypress 맛보기  | [cypress-basic](https://github.com/imakerjun/cypress-basic)  |       [코드](https://github.com/YUJO42/cypress-basic)        | [2021 02 03(수) TIL - 267 cypress 사용해보기(초간단 미션)](https://velog.io/@yujo/2021-02-03%EC%88%98-TIL-267-cypress-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0) | 20.02.03 |
-|  1   |   계산기 미션    | [ javascript-calculator](https://github.com/woowacourse/javascript-calculator) | [코드](https://github.com/YUJO42/javascript-calculator/tree/yujo) | [2021 02 04(목) TIL - 268 cypress(계산기 미션)](https://velog.io/@yujo/2021-02-04%EB%AA%A9-TIL-268-cypress%EA%B3%84%EC%82%B0%EA%B8%B0-%EB%AF%B8%EC%85%98) | 20.02.04 |
-|  2   | 자동차 경주 게임 |                                                              |                                                              |                                                              |          |
-
+| 단계 |     프로젝트     |                         원본 저장소                          |                          내 저장소                           |                             후기                             |    기간    |
+| :--: | :--------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :--------: |
+|  0   |  cypress 맛보기  | [cypress-basic](https://github.com/imakerjun/cypress-basic)  |       [코드](https://github.com/YUJO42/cypress-basic)        | [2021 02 03(수) TIL - 267 cypress 사용해보기(초간단 미션)](https://velog.io/@yujo/2021-02-03%EC%88%98-TIL-267-cypress-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0) |  20.02.03  |
+|  1   |   계산기 미션    | [ javascript-calculator](https://github.com/woowacourse/javascript-calculator) | [코드](https://github.com/YUJO42/javascript-calculator/tree/yujo) | [2021 02 04(목) TIL - 268 cypress(계산기 미션)](https://velog.io/@yujo/2021-02-04%EB%AA%A9-TIL-268-cypress%EA%B3%84%EC%82%B0%EA%B8%B0-%EB%AF%B8%EC%85%98) |  20.02.04  |
+|  2   | 자동차 경주 게임 | [javascript-racingcar](https://github.com/woowacourse/javascript-racingcar) | [코드](https://github.com/YUJO42/javascript-racingcar/tree/yujo42) |                                                              | 20.02.05 ~ |
