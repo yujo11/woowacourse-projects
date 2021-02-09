@@ -44,7 +44,7 @@
 
 ### 🚀 자동차 경주 게임 1단계(21.02.05 ~ 21.02.08)
 
-#### 🗂 저장소 : [javascript-baseball-precourse](https://github.com/YUJO42/javascript-racingcar/tree/yujo42)
+#### 🗂 저장소 : [javascript-racingcar](https://github.com/YUJO42/javascript-racingcar/tree/yujo42)
 
 #### 📝 기록 : [2021 02 05(금) TIL - 269 cypress type, each(자동차 경주 미션)](https://velog.io/@yujo/2021-02-05%EA%B8%88-TIL-269-cypress-type-each%EC%9E%90%EB%8F%99%EC%B0%A8-%EA%B2%BD%EC%A3%BC-%EB%AF%B8%EC%85%98)
 #### &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp; [2021 02 07(일) TIL - 271 cypress(자동차 경주 게임 미션)](https://velog.io/@yujo/2021-02-07%EC%9D%BC-TIL-271-cypress%EC%9E%90%EB%8F%99%EC%B0%A8-%EA%B2%BD%EC%A3%BC-%EA%B2%8C%EC%9E%84-%EB%AF%B8%EC%85%98)
