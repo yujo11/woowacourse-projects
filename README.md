@@ -13,7 +13,7 @@
 - 자신이 구현한 코드에 대해 테스트를 작성하고 리팩토링하여 읽기 좋은 코드로 변경해본다.
 
 
-| 단계 |          이름          |                          저장소                          |                            기록                            |                    페어                    |        날짜         |
+|  단계  |          이름          |                          저장소                          |                            기록                            |                    페어                    |        날짜         |
 | :--: | :--------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------: | :-----------------: |
 |  0-1   |     Cypress 맛보기     | [cypress-basic](https://github.com/YUJO42/javascript-calculator/tree/yujo) | [TIL - 267 cypress 사용해보기(초간단 미션)](https://velog.io/@yujo/2021-02-03%EC%88%98-TIL-267-cypress-%EC%82%AC%EC%9A%A9%ED%95%B4%EB%B3%B4%EA%B8%B0) | [하루(@365kim)](https://github.com/365kim) |      21.02.03       |
 |  0-2   |      계산기 미션       | [javascript-calculator](https://github.com/YUJO42/javascript-calculator/tree/yujo) | [TIL - 268 cypress(계산기 미션)](https://velog.io/@yujo/2021-02-04%EB%AA%A9-TIL-268-cypress%EA%B3%84%EC%82%B0%EA%B8%B0-%EB%AF%B8%EC%85%98) | [하루(@365kim)](https://github.com/365kim) |      21.02.04       |
