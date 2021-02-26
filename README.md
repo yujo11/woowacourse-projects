@@ -21,7 +21,7 @@
 | 1-2  | 자동차 경주 게임 step2 | [javascript-racingcar-step2](https://github.com/yujo11/javascript-racingcar/tree/step2) | [Link](https://github.com/woowacourse/javascript-racingcar/pull/25) |   -    |                       -                        |
 | 2-1  |   행운의 로또 stpe1    | [javascript-lotto-stpe1](https://github.com/yujo11/javascript-lotto/tree/step1) | [Link](https://github.com/woowacourse/javascript-lotto/pull/3) |   -    | [심바(@0imbean0)](https://github.com/0imbean0) |
 | 2-2  |   행운의 로또 step2    | [javascript-lotto-step2](https://github.com/yujo11/javascript-lotto/tree/step2) | [Link](https://github.com/woowacourse/javascript-lotto/pull/28) |   -    | [심바(@0imbean0)](https://github.com/0imbean0) |
-| 2-3  |   행운의 로또 step3    |                                                              |                                                              |        |                       -                        |
+| 2-3  |   행운의 로또 step3    | [javascript-lotto-step3](https://github.com/yujo11/javascript-lotto/tree/step3) |                                                              |        |                       -                        |
 
 ## 🌱 precourse
 
