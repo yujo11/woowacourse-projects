@@ -23,7 +23,6 @@
 | 3-3  |  유튜브 강의실 step3   | [javascript-youtube-classroom-step3](https://github.com/yujo11/javascript-youtube-classroom/tree/step3) | [Link](https://github.com/woowacourse/javascript-youtube-classroom/pull/47) | [유튜브 강의실 step3 후기](https://yujo11.github.io/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4/[%EC%9A%B0%ED%85%8C%EC%BD%94]%EB%A0%88%EB%B2%A81-%EC%9C%A0%ED%8A%9C%EB%B8%8C-%EA%B0%95%EC%9D%98%EC%8B%A4-step3-%ED%9B%84%EA%B8%B0/) |                        -                         |
 | 4-1  |  지하철 노선도 step1   | [javascript-subway](https://github.com/yujo11/javascript-subway/tree/step1) | [Link](https://github.com/woowacourse/javascript-subway/pull/17) |                                                              | [@곤이(yungo1846)](https://github.com/yungo1846) |
 | 4-2  |  지하철 노선도 step2   |                                                              |                                                              |                                                              | [@곤이(yungo1846)](https://github.com/yungo1846) |
-| 4-3  |  지하철 노선도 step3   |                                                              |                                                              |                                                              |                        -                         |
 
 ## 🌱 precourse
 
