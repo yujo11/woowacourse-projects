@@ -9,10 +9,12 @@
 - 모던 SPA 웹 애플리케이션을 온전히 개발한다. (React 생태계)
 - 직접 Boilerplate를 만들거나 CRA 등의 도구를 활용하여 NPM 생태계를 본격적으로 활용해본다.
 
-| step |       name        |                          repository                          |                             PR                             | record |                          Pair                          |
-| :--: | :---------------: | :----------------------------------------------------------: | :--------------------------------------------------------: | :----: | :----------------------------------------------------: |
-| 1-1  | 행운의 로또 step1 | [react-lotto-step1](https://github.com/yujo11/react-lotto/tree/step1) | [Link](https://github.com/woowacourse/react-lotto/pull/22) |        | [동동(@bigsaigon333)](https://github.com/bigsaigon333) |
-| 1-2  | 행운의 로또 step1 |                                                              |                                                            |        |                                                        |
+| step |       name        |                          repository                          |                              PR                              | record |                          Pair                          |
+| :--: | :---------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----: | :----------------------------------------------------: |
+| 1-1  | 행운의 로또 step1 | [react-lotto-step1](https://github.com/yujo11/react-lotto/tree/step1) |  [Link](https://github.com/woowacourse/react-lotto/pull/22)  |        | [동동(@bigsaigon333)](https://github.com/bigsaigon333) |
+| 1-2  | 행운의 로또 step2 |                                                              |                                                              |        |                                                        |
+| 2-1  |  페이먼츠 step1   | [react-payments-step1](https://github.com/yujo11/react-payments) | [Link](https://github.com/woowacourse/react-payments/pull/13) |        |   [티케(@devhyun637)](https://github.com/devhyun637)   |
+| 2-2  |  페이먼츠 step2   |                                                              |                                                              |        |                                                        |
 
 
 
