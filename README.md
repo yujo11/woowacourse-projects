@@ -12,9 +12,9 @@
 | step |       name        |                          repository                          |                              PR                              | record |                          Pair                          |
 | :--: | :---------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----: | :----------------------------------------------------: |
 | 1-1  | 행운의 로또 step1 | [react-lotto-step1](https://github.com/yujo11/react-lotto/tree/step1) |  [Link](https://github.com/woowacourse/react-lotto/pull/22)  |        | [동동(@bigsaigon333)](https://github.com/bigsaigon333) |
-| 1-2  | 행운의 로또 step2 |                                                              |                                                              |        |                                                        |
+| 1-2  | 행운의 로또 step2 | [react-lotto-step2](https://github.com/yujo11/react-lotto/tree/step2) |  [Link](https://github.com/woowacourse/react-lotto/pull/57)  |        |                           -                            |
 | 2-1  |  페이먼츠 step1   | [react-payments-step1](https://github.com/yujo11/react-payments) | [Link](https://github.com/woowacourse/react-payments/pull/13) |        |   [티케(@devhyun637)](https://github.com/devhyun637)   |
-| 2-2  |  페이먼츠 step2   |                                                              |                                                              |        |                                                        |
+| 2-2  |  페이먼츠 step2   |                                                              |                                                              |        |                           -                            |
 
 
 
