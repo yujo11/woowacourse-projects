@@ -9,6 +9,8 @@
 - 모던 SPA 웹 애플리케이션을 온전히 개발한다. (React 생태계)
 - 직접 Boilerplate를 만들거나 CRA 등의 도구를 활용하여 NPM 생태계를 본격적으로 활용해본다.
 
+### 📝 기록
+
 | step |             name              |                          repository                          |                              PR                              |                            record                            |                             Pair                             |
 | :--: | :---------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: | :----------------------------------------------------------: |
 | 1-1  |       행운의 로또 step1       | [react-lotto-step1](https://github.com/yujo11/react-lotto/tree/step1) |  [Link](https://github.com/woowacourse/react-lotto/pull/22)  |                              -                               |    [동동(@bigsaigon333)](https://github.com/bigsaigon333)    |
@@ -20,10 +22,6 @@
 | 4-1  |      지하철 노선도 step1      | [react-subway-map-step1](https://github.com/yujo11/react-subway-map/tree/step1) | [Link](https://github.com/woowacourse/react-subway-map/pull/24) |                              -                               |            [주모(@jum0)](https://github.com/jum0)            |
 | 4-2  |      지하철 노선도 step2      | [react-subway-map-step2](https://github.com/yujo11/react-subway-map/tree/step2) | [Link](https://github.com/woowacourse/react-subway-map/pull/32) | [react-subway-map 후기](https://yujo11.github.io/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4/[%EC%9A%B0%ED%85%8C%EC%BD%94]%EB%A0%88%EB%B2%A82%20React%20Subway%20Map%20%ED%9B%84%EA%B8%B0/) |                              -                               |
 |  -   | 우테코에서 찾은 나만의 공부법 | [woowa-writing-3](https://github.com/yujo11/woowa-writing-3) | [Link](https://github.com/woowacourse/woowa-writing-3/pull/129) | [레벨2 글쓰기 미션 - 우테코에서 찾은 나만의 효과적인 공부법](https://yujo11.github.io/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4/[%EC%9A%B0%ED%85%8C%EC%BD%94]%EB%A0%88%EB%B2%A82-%EA%B8%80%EC%93%B0%EA%B8%B0%EB%AF%B8%EC%85%98/) |                              -                               |
-
-
-
-### 📝 기록
 
 ## 🥚 Level01
 
