@@ -8,13 +8,14 @@
 
 - ✅ 개발 프로세스 기반으로 프로젝트를 진행, 협업하는 경험을 한다.
 
-### 📝 기록
+### 📝 프로젝트
 
-- 프로젝트 이름 : 찜꽁(공간 예약 서비스)
-  -  ✅ 공간을 한 눈에, 예약은 한 번에!
-- Repository: [2021-zzimkkong](https://github.com/woowacourse-teams/2021-zzimkkong)
+#### 프로젝트 이름 :   ✅ 공간을 한 눈에, 예약은 한 번에!찜꽁(공간 예약 서비스)
+#### Repository: [2021-zzimkkong](https://github.com/woowacourse-teams/2021-zzimkkong)
 
-  
+### ETC
+
+#### [레벨3 글쓰기 미션 - 팀 프로젝트가 나에게 남긴 것](https://yujo11.github.io/%EC%9A%B0%EC%95%84%ED%95%9C%ED%85%8C%ED%81%AC%EC%BD%94%EC%8A%A4/[%EC%9A%B0%ED%85%8C%EC%BD%94]%EB%A0%88%EB%B2%A83-%EA%B8%80%EC%93%B0%EA%B8%B0%EB%AF%B8%EC%85%98/)
 
 ## 🐣 Level-02
 
